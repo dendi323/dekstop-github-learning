@@ -1,1 +1,2 @@
 ini adalah adalah file untuk contoh dengan format txt
+ini adalah baris yang ditambajkan di file contih.txt
